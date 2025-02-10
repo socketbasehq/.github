@@ -1,3 +1,9 @@
+
+
+## 🚀 About SocketBase
+
+SocketBase is on a mission to provide developers with a powerful, self-hosted real-time communication infrastructure. We believe in giving developers full control over their WebSocket infrastructure while maintaining compatibility with existing solutions.
+
 <p align="center">
   <a href="https://docs.socketbase.dev">Documentation</a> •
   <a href="https://github.com/socketbasehq/socketbase">Main Repository</a> •
@@ -16,10 +22,6 @@
     <img src="https://img.shields.io/docker/pulls/socketbase/socketbase" alt="Docker Pulls">
   </a>
 </p>
-
-## 🚀 About SocketBase
-
-SocketBase is on a mission to provide developers with a powerful, self-hosted real-time communication infrastructure. We believe in giving developers full control over their WebSocket infrastructure while maintaining compatibility with existing solutions.
 
 ### 🌟 What We Offer
 
