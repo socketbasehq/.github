@@ -1,16 +1,4 @@
 <p align="center">
-  <a href="https://socketbase.dev">
-    <img src="https://raw.githubusercontent.com/socketbasehq/socketbase/main/public/logo-rounded.svg" width="120px" alt="SocketBase logo" />
-  </a>
-</p>
-
-<h1 align="center">Welcome to SocketBase</h1>
-
-<p align="center">
-  <strong>Open-source, self-hosted alternative to Pusher Channels</strong>
-</p>
-
-<p align="center">
   <a href="https://docs.socketbase.dev">Documentation</a> •
   <a href="https://github.com/socketbasehq/socketbase">Main Repository</a> •
   <a href="https://discord.gg/zSQyK6nmM9">Discord</a> •
